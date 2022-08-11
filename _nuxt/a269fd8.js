@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{256:function(t,n,e){"use strict";e.r(n);var l=e(43),component=Object(l.a)({},(function(){return(0,this._self._c)("h1",[this._v("hello it is about contectPage")])}),[],!1,null,null,null);n.default=component.exports}}]);
